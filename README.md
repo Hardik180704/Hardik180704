@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hardik180704
 - 👀 I’m interested in web development,artificial intelligence and machine learning.
 - 🌱 I’m currently learning web developmement.
-- 💞️ I’m looking to collaborate on nothing as of now..
+- 💞️ I’m looking to collaborate on Web Dev Projects.
 - 📫 You can reach me via my email:-hardik2004s@gmail.com
 - ⚡ Fun fact: "I'm a developer who believes that code is like humor—if you have to explain it, it's probably not that good!"
 
