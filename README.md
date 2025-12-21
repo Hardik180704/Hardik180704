@@ -1,8 +1,5 @@
 <div align="center">
-
-  <img src="https://i.pinimg.com/originals/89/36/f1/8936f11277bea80c8502f6f5950d87fa.gif" alt="Pokeball" width="200" />
   
-  <br />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+Hi!+I'm+Hardik+Sharma!+%F0%9F%91%8B" alt="Sci-Fi Header" />
   </a>
