@@ -1,6 +1,4 @@
 <div align="center">
-
-  <img src="https://i.pinimg.com/originals/89/36/f1/8936f11277bea80c8502f6f5950d87fa.gif" alt="Pokeball" width="200" />
   
   <br />
   <a href="https://git.io/typing-svg">
