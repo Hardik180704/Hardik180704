@@ -11,13 +11,13 @@
   <br />
   <br />
 
-  <a href="https://linkedin.com/in/hardiksharma" target="_blank">
+  <a href="https://linkedin.com/in/hardik--" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:hardiksharma@gmail.com" target="_blank">
+  <a href="mailto:hardik2004s@@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://hardiksharma.com" target="_blank">
+  <a href="https://www.hardik18.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://x.com/hardik2004s" target="_blank">
