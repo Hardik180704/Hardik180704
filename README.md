@@ -37,6 +37,8 @@
     I'm a passionate Full Stack Developer from India 🇮🇳, dedicated to building scalable web and mobile applications. My journey involves exploring the depths of Web3 and Artificial Intelligence to craft innovative solutions for complex problems. 🚀
   </h3>
 
+  <p>💼 <strong>Available for freelance projects and collaborations!</strong></p>
+
 </div>
 
 
@@ -92,16 +94,16 @@
 
 <div align="center"> 
   <a href="https://github.com/Hardik180704/Vibe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik180704&repo=Vibe&theme=tokyonight&hide_border=true" alt="Vibe" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik180704&repo=Vibe&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Vibe" />
   </a>
   <a href="https://github.com/Hardik180704/inboxOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik180704&repo=inboxOS&theme=tokyonight&hide_border=true" alt="inboxOS" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik180704&repo=inboxOS&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="inboxOS" />
   </a>
   <a href="https://github.com/Hardik180704/Onyx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik180704&repo=Onyx&theme=tokyonight&hide_border=true" alt="Onyx" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik180704&repo=Onyx&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Onyx" />
   </a>
   <a href="https://github.com/Hardik180704/Orbit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik180704&repo=Orbit&theme=tokyonight&hide_border=true" alt="Orbit" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hardik180704&repo=Orbit&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Orbit" />
   </a>
 </div>
 
@@ -117,7 +119,21 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik180704&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik180704&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </div>
 
+---
 
+<div align="center">
+
+### 💬 Let's Connect!
+
+**Open to freelance work and collaborations!**
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hardik18.dev)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardik2004s@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hardik18)
+
+</div>
